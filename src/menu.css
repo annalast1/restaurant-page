@@ -1,0 +1,23 @@
+section {
+    background: linear-gradient(45deg, lightgreen, white, lightgreen);
+    text-align: center;
+    padding: 20px;
+    line-height: 1.5;
+ }
+ 
+ h3 {
+    font-size: 30px;
+ }
+
+p {
+    font-size: 22px;
+}
+
+.price {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+#name {
+    font-size: 40px;
+}
